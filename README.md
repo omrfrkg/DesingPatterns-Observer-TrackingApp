@@ -90,5 +90,5 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👥 İletişim
 
-Ömer Faruk Gündoğdu - [GitHub](https://github.com/yourusername)
+Ömer Faruk Gündoğdu - [GitHub](https://github.com/omrfrkg)
 
